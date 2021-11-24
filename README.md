@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @stibium-a
+- 👋 Hi, I’m Alex
 - 👀 I’m interested in frontend, music, cars, books
 - 🌱 I’m currently learning frontend(js)
 - 💞️ I’m looking to collaborate on: don`t know yet
